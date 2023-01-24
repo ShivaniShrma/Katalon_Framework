@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Msg_Invalid Login details</name>
+   <tag></tag>
+   <elementGuidId>5a0849d3-a4a4-4c89-be44-1abbd49bcfe9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='login_form']/table/tbody/tr[5]/td[2]/div/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>638136d5-57ae-4ad8-8f80-b0bfa71da675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid Login details or Your Password might have expired. Click here to reset your password</value>
+      <webElementGuid>48415d21-5fcb-4108-9216-1f13f7b430f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login_form&quot;)/table[@class=&quot;login&quot;]/tbody[1]/tr[5]/td[2]/div[@class=&quot;auth_error&quot;]/b[1]</value>
+      <webElementGuid>446b51c6-0d5e-4fd8-826f-eb69c1cb0a10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='login_form']/table/tbody/tr[5]/td[2]/div/b</value>
+      <webElementGuid>61d0e9f9-60b8-43ce-a83b-9f64e2e69b17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::b[1]</value>
+      <webElementGuid>276865e6-a8d8-48cf-a4cd-d1707d9fd68b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New User Register Here'])[1]/preceding::b[1]</value>
+      <webElementGuid>6aab303d-e880-45a0-8c64-b4eb24a0081a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid Login details or Your Password might have expired.']/parent::*</value>
+      <webElementGuid>c524fe54-eefe-4549-afa4-5e0e2ef927fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>e3ff0381-bad7-465a-8e27-48fbcf737cf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Invalid Login details or Your Password might have expired. Click here to reset your password' or . = 'Invalid Login details or Your Password might have expired. Click here to reset your password')]</value>
+      <webElementGuid>4b9089dd-ccdd-49c4-80c8-c64b69a91578</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
