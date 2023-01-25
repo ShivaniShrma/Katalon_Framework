@@ -25,9 +25,15 @@ Mobile.setText(findTestObject('Object Repository/Mobile_OR/android.widget.EditTe
 
 Mobile.tap(findTestObject('Object Repository/Mobile_OR/android.widget.Button - Login'), 0)
 
-Mobile.takeAreaScreenshotAsCheckpoint('Checkpoint3', a)
+WebUI.delay(2)
+
+Mobile.takeScreenshotAsCheckpoint('Checkpoint3', [])
 
 Mobile.tap(findTestObject('Object Repository/Mobile_OR/android.widget.Button - Logout'), 0)
+
+WebUI.delay(2)
+
+Mobile.takeScreenshotAsCheckpoint('Checkpoint2', [])
 
 Mobile.closeApplication()
 

@@ -29,8 +29,6 @@ Windows.click(findWindowsObject('Object Repository/Desktop_OR/Edit(1)'))
 
 Windows.setText(findWindowsObject('Object Repository/Desktop_OR/Edit(1)'), 'Chandigarh')
 
-WebUI.takeFullPageScreenshotAsCheckpoint('Checkpoint1', [])
-
 Windows.click(findWindowsObject('Object Repository/Desktop_OR/Button(1)'))
 
 Windows.click(findWindowsObject('Object Repository/Desktop_OR/Button(2)'))
@@ -38,8 +36,6 @@ Windows.click(findWindowsObject('Object Repository/Desktop_OR/Button(2)'))
 Windows.click(findWindowsObject('Object Repository/Desktop_OR/Button(3)'))
 
 Windows.click(findWindowsObject('Object Repository/Desktop_OR/Button(4)'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Checkpoint2', [])
 
 Windows.click(findWindowsObject('Object Repository/Desktop_OR/Button(5)'))
 
